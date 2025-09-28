@@ -1,10 +1,11 @@
-div { 
-    text-align:center;
-    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
-}
-
 .title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.homepage {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .bodytext {
@@ -27,5 +28,16 @@ div {
 .background {
     background-color: rgba(7, 7, 7, 0.774);
     color: white;
-    font-weight: 600;
+}
+
+.recipeimage {
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: auto;
+}
+
+.recipebody {
+    margin-left: 800px;
+    margin-top: 90px;
 }
